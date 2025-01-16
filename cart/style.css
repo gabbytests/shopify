@@ -85,7 +85,7 @@ header .totalQuantity{
     position: fixed;
     width: 400px;
     max-width: 80vw;
-    height: 100vh;
+    height: 80vh;
     background-color: #0E0F11;
     top: 0px;
     right: -100%;
@@ -162,7 +162,7 @@ header .totalQuantity{
 }
 .checkoutLayout{
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr;
     gap: 50px;
     padding: 20px;
 }
