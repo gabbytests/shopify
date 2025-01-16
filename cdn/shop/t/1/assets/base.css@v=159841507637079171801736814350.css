@@ -4,7 +4,7 @@
 .customer button, 
 .shopify-payment-button__button--unbranded {
     position: relative;
-    top: 30px; /* Adjust this value to move the button down */
+    top: 7px; /* Adjust this value to move the button down */
 }
 
 .button:after, 
