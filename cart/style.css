@@ -165,7 +165,7 @@ header .totalQuantity{
     grid-template-columns: 1f;
     gap: 50px;
     padding: 20px;
-    margin-left: -35px;
+    margin-left: -30px;
 }
 .checkoutLayout .right{
     background-color: #5358B3;
