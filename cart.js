@@ -48,7 +48,7 @@ document.addEventListener("DOMContentLoaded", () => {
             return;
         }
 
-        const phoneNumber = "0539115369"; // Replace with your WhatsApp number
+        const phoneNumber = "233539115369"; // Replace with your WhatsApp number
         let message = "🛒 *New Order*%0A%0A";
 
         cart.forEach(item => {
