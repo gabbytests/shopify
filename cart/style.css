@@ -162,9 +162,10 @@ header .totalQuantity{
 }
 .checkoutLayout{
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: 1f;
     gap: 50px;
     padding: 20px;
+    margin-left: -40px;
 }
 .checkoutLayout .right{
     background-color: #5358B3;
